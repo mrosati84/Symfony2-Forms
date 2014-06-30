@@ -1,0 +1,15 @@
+{
+    "name": "mrosati84/forms",
+    "description": "Testing Symfony forms",
+    "authors": [
+        {
+            "name": "Matteo Rosati",
+            "email": "rosati.matteo@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/form": "2.4.5",
+        "twig/twig": "1.15.1",
+        "symfony/twig-bridge": "2.4.5"
+    }
+}
